@@ -1,3 +1,4 @@
+
 <p align="center">
-  <img width="486" height="225" alt="Prompt Mestre" src="https://github.com/user-attachments/assets/83595e95-b278-4140-b766-4b791cf59141" />
+  <img width="486" height="225" alt=""image" src="https://github.com/user-attachments/assets/8de058ff-d90b-4b2b-8e77-06c1a3079b19"" />
 </p>
