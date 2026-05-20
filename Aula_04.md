@@ -39,28 +39,28 @@ Formato da resposta:
 ## 🍰 Receita — Brownie Clássico
 
 ### Ingredientes
-- 200g de chocolate meio amargo  
-- 150g de manteiga  
-- 1 xícara (200g) de açúcar  
-- 2 ovos  
-- 1 colher (chá) de baunilha (opcional)  
-- 3/4 xícara (90g) de farinha de trigo  
-- 1 pitada de sal  
+- 200g chocolate meio amargo  
+- 150g manteiga  
+- 200g açúcar (≈ 1 xícara)  
+- 2 ovos (≈ 100g)  
+- 5 ml essência de baunilha (1 colher de chá)  
+- 90g farinha de trigo (≈ 3/4 xícara)  
+- 1g sal (1 pitada)  
 
 ### Modo de preparo
 1. Preaqueça o forno a 180 °C.  
 2. Derreta o chocolate com a manteiga.  
-3. Misture o açúcar até ficar homogêneo.  
-4. Adicione os ovos e misture bem.  
-5. Acrescente a baunilha.  
-6. Misture a farinha e o sal delicadamente.  
+3. Adicione o açúcar e misture.  
+4. Acrescente os ovos e misture bem.  
+5. Adicione a baunilha.  
+6. Incorpore a farinha e o sal.  
 7. Despeje em forma untada.  
-8. Asse por 20 a 25 minutos.  
+8. Asse por 20–25 minutos.  
 
 ### Dicas
-- O centro deve ficar levemente úmido  
-- Adicione nozes ou gotas de chocolate para variar  
-- Use açúcar mascavo para uma versão mais saudável  
+- Centro levemente úmido = brownie perfeito  
+- Acrescente 80g de nozes ou chocolate extra  
+- Pode substituir por 180g de açúcar mascavo  
 
 ---
 
@@ -88,27 +88,27 @@ Formato da resposta:
 ## 🍩 Receita — Bolinho de Chuva
 
 ### Ingredientes
-- 2 xícaras de farinha de trigo  
-- 1/2 xícara de açúcar  
-- 1 ovo  
-- 1 xícara de leite  
-- 1 colher (sopa) de fermento em pó  
-- Óleo para fritar  
-- Açúcar e canela para polvilhar  
+- 240g farinha de trigo (≈ 2 xícaras)  
+- 100g açúcar (≈ 1/2 xícara)  
+- 1 ovo (≈ 50g)  
+- 240 ml leite (1 xícara)  
+- 10g fermento em pó (1 colher de sopa)  
+- 500 ml óleo (para fritar)  
+- 50g açúcar + 5g canela (para polvilhar)  
 
 ### Modo de preparo
-1. Misture o ovo, açúcar e leite.  
-2. Adicione a farinha aos poucos até formar massa cremosa.  
-3. Incorpore o fermento.  
-4. Aqueça o óleo em fogo médio.  
-5. Frite colheradas da massa.  
-6. Retire quando dourar.  
-7. Escorra e passe no açúcar com canela.  
+1. Misture ovo, açúcar e leite.  
+2. Adicione a farinha até formar massa cremosa.  
+3. Misture o fermento.  
+4. Aqueça o óleo a ~180 °C.  
+5. Frite pequenas porções.  
+6. Retire ao dourar.  
+7. Escorra e finalize com açúcar e canela.  
 
 ### Dicas
-- Óleo muito quente deixa cru por dentro  
-- Massa ideal cai lentamente da colher  
-- Adicione banana para uma versão diferente  
+- Temperatura ideal do óleo: 170–180 °C  
+- Massa deve cair devagar da colher  
+- Pode adicionar 100g de banana picada  
 
 ---
 
@@ -136,33 +136,28 @@ Formato da resposta:
 ## 🥥 Receita — Bala de Coco Caseira
 
 ### Ingredientes
-- 1 kg de açúcar  
-- 200 ml de leite de coco  
-- 1/2 xícara de água  
-- 1 colher (sopa) de vinagre  
+- 1000g açúcar (1 kg)  
+- 200 ml leite de coco  
+- 120 ml água (≈ 1/2 xícara)  
+- 15 ml vinagre (1 colher de sopa)  
 
 ### Modo de preparo
-1. Misture todos os ingredientes na panela.  
-2. Mexa até dissolver o açúcar e pare de mexer.  
-3. Cozinhe até atingir ponto de bala dura.  
+1. Misture tudo em uma panela.  
+2. Mexa até dissolver o açúcar.  
+3. Pare de mexer e cozinhe até 140 °C (ponto de bala dura).  
 4. Despeje em superfície untada.  
-5. Deixe esfriar até suportar o toque.  
+5. Aguarde esfriar até ~60 °C.  
 6. Puxe a massa até ficar branca.  
 7. Corte em pedaços.  
 
 ### Dicas
-- Cuidado com o açúcar quente 🔥  
-- Unte mãos e superfície  
-- Pode rechear com doce de leite ou coco  
+- Use termômetro culinário se possível  
+- Muito cuidado com queimaduras 🔥  
+- Pode rechear com doce de leite (100g)  
 
 ---
 
 # 📌 Observações
 
-- Todas as receitas são tradicionais e fáceis de fazer  
-- Ótimas para iniciantes na cozinha  
-- Podem ser adaptadas para versões mais saudáveis  
-
----
-
-💡 Feito com ❤️ para estudos de **Prompt Engineering + Culinária**
+- Medidas em gramas garantem mais precisão  
+- Ideal para iniciantes e intermediários  
