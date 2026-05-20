@@ -1,156 +1,153 @@
-# 🐍 Guia Básico de Python
+# Supreme Multimarcas
 
-Este documento é uma introdução prática ao Python, ideal para iniciantes.
+## Link do Site
+https://stock-swagger-flow.lovable.app
 
----
+Sistema de gerenciamento de estoque para lojas multimarcas de streetwear, desenvolvido com foco em performance, controle visual e experiência premium.
 
-## 📌 O que é Python?
-
-Python é uma linguagem de programação:
-- Simples e fácil de aprender
-- Muito usada em dados, web, automação e IA
-- Multiplataforma (Windows, Linux e Mac)
+O projeto utiliza uma identidade visual **Cyber-Luxe HUD**, combinando interface escura, detalhes dourados e tipografia moderna para transmitir sofisticação e controle total sobre o inventário.
 
 ---
 
-## ▶️ Primeiro Programa
+# Painel da Loja
 
-    print("Olá, mundo!")
+Dashboard com métricas inteligentes e monitoramento em tempo real do estoque.
 
-Rodar no terminal:
+## Funcionalidades do Dashboard
 
-    python arquivo.py
+### Métricas em tempo real
+- Estoque total
+- SKUs ativos
+- Valor em ativos
+- Margem potencial
 
----
+### Alertas automáticos
+- Produtos zerados
+- Estoque baixo
 
-## 🔤 Variáveis
-
-    nome = "João"
-    idade = 20
-    altura = 1.75
-
-    print(nome, idade, altura)
-
----
-
-## 🔢 Tipos de Dados
-
-    texto = "Python"   # string
-    inteiro = 10       # int
-    decimal = 3.14     # float
-    ativo = True       # boolean
+### Recursos adicionais
+- Indicador de ocupação do estoque
+- Badge de "Loja Aberta" com status ativo
+- Interface responsiva e moderna
 
 ---
 
-## 📥 Entrada de Dados
+# Catálogo de Produtos
 
-    nome = input("Digite seu nome: ")
-    print("Olá,", nome)
+Gerenciamento completo do inventário.
 
----
+## Busca e Filtros
+- Busca textual por nome
+- Filtro por categoria
+- Filtro por marca
 
-## 🔀 Condições
+## Categorias disponíveis
+- Camisetas
+- Moletons
+- Calças
+- Shorts
+- Tênis
+- Bonés
+- Acessórios
 
-    idade = 18
+## Ordenação
+- Alertas primeiro
+- Menor estoque
+- Maior estoque
+- Nome A–Z
+- Mais recentes
 
-    if idade >= 18:
-        print("Maior de idade")
-    else:
-        print("Menor de idade")
-
----
-
-## 🔁 Laços
-
-For:
-
-    for i in range(5):
-        print(i)
-
-While:
-
-    contador = 0
-
-    while contador < 5:
-        print(contador)
-        contador += 1
+## Alertas Inteligentes
+- Filtro rápido "Somente alertas"
+- Badge clicável de produtos críticos
 
 ---
 
-## 🧰 Funções
+# Movimentação de Estoque
 
-    def saudacao(nome):
-        print("Olá,", nome)
+Sistema rápido e intuitivo para entradas e saídas.
 
-    saudacao("João")
-
----
-
-## 📚 Listas
-
-    frutas = ["maçã", "banana", "uva"]
-
-    print(frutas[0])
-
-    for fruta in frutas:
-        print(fruta)
+## Funcionalidades
+- Formulário inline no próprio card do produto
+- Sem uso de modais
+- Alternância entre:
+  - Entrada
+  - Saída
 
 ---
 
-## 🗂️ Dicionários
+# Cadastro de Produtos
 
-    pessoa = {
-        "nome": "João",
-        "idade": 20
-    }
+Formulário completo para adicionar novos itens ao estoque.
 
-    print(pessoa["nome"])
-
----
-
-## 📦 Bibliotecas
-
-    import math
-
-    print(math.sqrt(16))
+## Campos
+- Nome do produto
+- Marca
+- Categoria
+- Cor
+- Tamanho
+- Quantidade inicial
+- Preço de custo
+- Preço de venda
+- Estoque mínimo
 
 ---
 
-## 🚀 Próximos Passos
+# Histórico de Movimentações
 
-- Orientação a objetos  
-- Manipulação de arquivos  
-- Bibliotecas úteis: Pandas, NumPy, Flask, Django  
+Registro completo de todas as entradas e saídas do estoque.
 
----
-
-## 📌 Dicas
-
-- Pratique todos os dias  
-- Leia os erros com atenção  
-- Crie projetos pequenos  
+## Informações exibidas
+- Produto
+- Tipo (Entrada/Saída)
+- Quantidade
+- Motivo
+- Data
 
 ---
 
-## 📎 Projeto Simples
+# Backup em JSON
 
-    # Calculadora
+Exportação e importação do estado completo do estoque.
 
-    a = float(input("Número 1: "))
-    b = float(input("Número 2: "))
-
-    print("Soma:", a + b)
-    print("Subtração:", a - b)
-    print("Multiplicação:", a * b)
-    print("Divisão:", a / b)
+## Funcionalidades
+- Download do backup em formato JSON
+- Importação de arquivo JSON
+- Preservação completa dos dados
 
 ---
 
-## 💡 Conclusão
+# Tecnologias
 
-Python é uma linguagem fácil e poderosa para começar na programação.  
-Com prática, você evolui rápido!
+| Tecnologia | Versão | Finalidade |
+|---|---|---|
+| TanStack Start | v1 | Framework full-stack |
+| React | 19 | UI |
+| TypeScript | 5.8 | Tipagem |
+| Tailwind CSS | v4 | Estilos |
+| shadcn/ui | latest | Componentes base |
+| TanStack Query | v5 | Estado assíncrono |
+| TanStack Router | v1 | Roteamento |
+| Recharts | v2 | Gráficos |
+| Lucide React | v0.575 | Ícones |
+| Zod | v3 | Validação |
 
 ---
 
-Autor: João Victor Mendes Ferreira
+# Design System
+
+## Identidade Visual
+- Paleta: Gold Noir — preto profundo com dourado como cor de destaque
+- Tipografia: Space Grotesk (títulos) + DM Sans (corpo)
+- Layout: Bento Grid com cards arredondados e bordas sutis
+- Estilo: HUD cyber-luxe, minimalista e sofisticado
+
+## Tokens Principais
+
+```css
+--background: oklch(0.08 0.01 260);
+--foreground: oklch(0.95 0.01 260);
+--primary: oklch(0.75 0.15 85);
+--accent: oklch(0.65 0.12 300);
+--muted: oklch(0.2 0.02 260);
+--border: oklch(0.2 0.01 260 / 0.5);
