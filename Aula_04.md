@@ -17,8 +17,7 @@ Cada receita inclui:
 
 
 # 🍫 Brownie
-
-## 🎯 Prompt Refinado
+ 🎯 Prompt Refinado
 Você é um confeiteiro profissional especializado em sobremesas de chocolate.  
 Crie uma receita detalhada de brownie caseiro, com textura úmida e sabor intenso de chocolate.
 
