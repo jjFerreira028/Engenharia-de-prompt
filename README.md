@@ -20,8 +20,11 @@ Desenvolvimento de Protótipos Inteligentes
 Aplicações práticas no mercado de tecnologia
 
 🎓 Docentes Responsáveis
+
 **Kadidja Valeria Reginaldo De Oliveira**
+
 **Karla Roberto Sartin**
+
 🎯 Objetivo do Repositório
 
 Este repositório tem como finalidade:
