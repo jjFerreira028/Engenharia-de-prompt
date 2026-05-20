@@ -1,153 +1,40 @@
-# Supreme Multimarcas
 
-## Link do Site
-https://stock-swagger-flow.lovable.app
+<p align="center">
+  <img width="212" height="188" alt="image" src="https://github.com/user-attachments/assets/4b05df32-913f-4e9e-a23c-8d84ce4856c2" />
+</p>
 
-Sistema de gerenciamento de estoque para lojas multimarcas de streetwear, desenvolvido com foco em performance, controle visual e experiência premium.
 
-O projeto utiliza uma identidade visual **Cyber-Luxe HUD**, combinando interface escura, detalhes dourados e tipografia moderna para transmitir sofisticação e controle total sobre o inventário.
 
----
 
-# Painel da Loja
 
-Dashboard com métricas inteligentes e monitoramento em tempo real do estoque.
+# Parecer Individual – Unidade II
 
-## Funcionalidades do Dashboard
+Durante a Unidade II, foi possível compreender a importância das práticas relacionadas ao uso de Inteligência Artificial no ambiente acadêmico e profissional, especialmente no que diz respeito ao **workflow, ética e ferramentas como Copilot, Replit e Ghostwriter**.
 
-### Métricas em tempo real
-- Estoque total
-- SKUs ativos
-- Valor em ativos
-- Margem potencial
+## Práticas Adotadas
 
-### Alertas automáticos
-- Produtos zerados
-- Estoque baixo
+Em relação às práticas adotadas, considero que o uso de IA pode ser muito útil no apoio à produtividade, principalmente na organização de ideias, revisão de textos e automação de tarefas repetitivas. No entanto, é fundamental utilizar essas ferramentas de forma consciente, evitando a dependência excessiva e garantindo que o conhecimento seja realmente construído pelo estudante.
 
-### Recursos adicionais
-- Indicador de ocupação do estoque
-- Badge de "Loja Aberta" com status ativo
-- Interface responsiva e moderna
+## Sugestões e Refatoração
 
----
+Como sugestão de melhoria, destaco a necessidade de **refatoração no fluxo de trabalho (workflow)**, priorizando um uso mais estratégico das ferramentas. Por exemplo, utilizar o Copilot para auxiliar na estruturação inicial de um texto, mas realizar ajustes e complementações com pensamento crítico. A automação pode ser implementada em etapas operacionais, mas não deve substituir a análise humana.
 
-# Catálogo de Produtos
+## Ética e Transparência
 
-Gerenciamento completo do inventário.
+No aspecto ético, é essencial manter a **transparência no uso das tecnologias**, informando quando e como as ferramentas de IA foram utilizadas. Além disso, deve-se evitar plágio e garantir a autoria intelectual do trabalho, utilizando a IA apenas como suporte.
 
-## Busca e Filtros
-- Busca textual por nome
-- Filtro por categoria
-- Filtro por marca
+## Ferramentas Analisadas
 
-## Categorias disponíveis
-- Camisetas
-- Moletons
-- Calças
-- Shorts
-- Tênis
-- Bonés
-- Acessórios
+- **Copilot**: útil para geração de textos e apoio na escrita  
+- **Replit / Ghostwriter**: voltados para programação e automação de código, otimizando tempo e eficiência  
 
-## Ordenação
-- Alertas primeiro
-- Menor estoque
-- Maior estoque
-- Nome A–Z
-- Mais recentes
+Todas essas ferramentas contribuem para a produtividade, desde que utilizadas de forma responsável.
 
-## Alertas Inteligentes
-- Filtro rápido "Somente alertas"
-- Badge clicável de produtos críticos
+## Conclusão
 
----
+Concluo que a integração da IA ao processo de aprendizagem é positiva, mas exige equilíbrio entre o uso da tecnologia e o desenvolvimento do pensamento crítico do usuário.
 
-# Movimentação de Estoque
+## Fontes e Transparência
 
-Sistema rápido e intuitivo para entradas e saídas.
-
-## Funcionalidades
-- Formulário inline no próprio card do produto
-- Sem uso de modais
-- Alternância entre:
-  - Entrada
-  - Saída
-
----
-
-# Cadastro de Produtos
-
-Formulário completo para adicionar novos itens ao estoque.
-
-## Campos
-- Nome do produto
-- Marca
-- Categoria
-- Cor
-- Tamanho
-- Quantidade inicial
-- Preço de custo
-- Preço de venda
-- Estoque mínimo
-
----
-
-# Histórico de Movimentações
-
-Registro completo de todas as entradas e saídas do estoque.
-
-## Informações exibidas
-- Produto
-- Tipo (Entrada/Saída)
-- Quantidade
-- Motivo
-- Data
-
----
-
-# Backup em JSON
-
-Exportação e importação do estado completo do estoque.
-
-## Funcionalidades
-- Download do backup em formato JSON
-- Importação de arquivo JSON
-- Preservação completa dos dados
-
----
-
-# Tecnologias
-
-| Tecnologia | Versão | Finalidade |
-|---|---|---|
-| TanStack Start | v1 | Framework full-stack |
-| React | 19 | UI |
-| TypeScript | 5.8 | Tipagem |
-| Tailwind CSS | v4 | Estilos |
-| shadcn/ui | latest | Componentes base |
-| TanStack Query | v5 | Estado assíncrono |
-| TanStack Router | v1 | Roteamento |
-| Recharts | v2 | Gráficos |
-| Lucide React | v0.575 | Ícones |
-| Zod | v3 | Validação |
-
----
-
-# Design System
-
-## Identidade Visual
-- Paleta: Gold Noir — preto profundo com dourado como cor de destaque
-- Tipografia: Space Grotesk (títulos) + DM Sans (corpo)
-- Layout: Bento Grid com cards arredondados e bordas sutis
-- Estilo: HUD cyber-luxe, minimalista e sofisticado
-
-## Tokens Principais
-
-```css
---background: oklch(0.08 0.01 260);
---foreground: oklch(0.95 0.01 260);
---primary: oklch(0.75 0.15 85);
---accent: oklch(0.65 0.12 300);
---muted: oklch(0.2 0.02 260);
---border: oklch(0.2 0.01 260 / 0.5);
+- Podcast da Unidade II (material base da disciplina)  
+- Ferramenta de IA utilizada: M365 Copilot (ChatGPT)
