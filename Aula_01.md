@@ -1,153 +1,49 @@
-# Supreme Multimarcas
+# 🤖 O que é Inteligência Artificial (IA)
 
-## Link do Site
-https://stock-swagger-flow.lovable.app
-
-Sistema de gerenciamento de estoque para lojas multimarcas de streetwear, desenvolvido com foco em performance, controle visual e experiência premium.
-
-O projeto utiliza uma identidade visual **Cyber-Luxe HUD**, combinando interface escura, detalhes dourados e tipografia moderna para transmitir sofisticação e controle total sobre o inventário.
+A **Inteligência Artificial (IA)** é um campo da tecnologia que desenvolve sistemas capazes de **simular a inteligência humana**. Isso permite que máquinas realizem tarefas que normalmente exigiriam habilidades humanas, como aprender, raciocinar e tomar decisões.
 
 ---
 
-# Painel da Loja
+## 🔍 Definição simples
 
-Dashboard com métricas inteligentes e monitoramento em tempo real do estoque.
-
-## Funcionalidades do Dashboard
-
-### Métricas em tempo real
-- Estoque total
-- SKUs ativos
-- Valor em ativos
-- Margem potencial
-
-### Alertas automáticos
-- Produtos zerados
-- Estoque baixo
-
-### Recursos adicionais
-- Indicador de ocupação do estoque
-- Badge de "Loja Aberta" com status ativo
-- Interface responsiva e moderna
+IA é a capacidade de um computador ou sistema **aprender com dados e agir de forma inteligente**.
 
 ---
 
-# Catálogo de Produtos
+## 🧠 Como funciona
 
-Gerenciamento completo do inventário.
+A IA geralmente utiliza técnicas como **aprendizado de máquina (Machine Learning)**:
 
-## Busca e Filtros
-- Busca textual por nome
-- Filtro por categoria
-- Filtro por marca
-
-## Categorias disponíveis
-- Camisetas
-- Moletons
-- Calças
-- Shorts
-- Tênis
-- Bonés
-- Acessórios
-
-## Ordenação
-- Alertas primeiro
-- Menor estoque
-- Maior estoque
-- Nome A–Z
-- Mais recentes
-
-## Alertas Inteligentes
-- Filtro rápido "Somente alertas"
-- Badge clicável de produtos críticos
+1. Recebe grandes quantidades de dados  
+2. Aprende padrões nesses dados  
+3. Usa esses padrões para fazer previsões ou tomar decisões  
 
 ---
 
-# Movimentação de Estoque
+## 🤖 Exemplos no dia a dia
 
-Sistema rápido e intuitivo para entradas e saídas.
-
-## Funcionalidades
-- Formulário inline no próprio card do produto
-- Sem uso de modais
-- Alternância entre:
-  - Entrada
-  - Saída
+- Assistentes virtuais (Alexa, Siri, Google Assistente)  
+- Recomendações de filmes e músicas (Netflix, Spotify)  
+- Reconhecimento facial em celulares  
+- Chatbots de atendimento  
+- Tradutores automáticos  
 
 ---
 
-# Cadastro de Produtos
+## 🧩 Tipos de IA
 
-Formulário completo para adicionar novos itens ao estoque.
+### ✅ IA Fraca (ou estreita)
+- Especializada em tarefas específicas  
+- É a mais comum hoje  
 
-## Campos
-- Nome do produto
-- Marca
-- Categoria
-- Cor
-- Tamanho
-- Quantidade inicial
-- Preço de custo
-- Preço de venda
-- Estoque mínimo
+### 🚧 IA Forte (ou geral)
+- Teria capacidade semelhante à humana  
+- Ainda não existe na prática  
 
 ---
 
-# Histórico de Movimentações
+## ✅ Resumo
 
-Registro completo de todas as entradas e saídas do estoque.
-
-## Informações exibidas
-- Produto
-- Tipo (Entrada/Saída)
-- Quantidade
-- Motivo
-- Data
+A IA permite que máquinas **apremdam, analisem informações e tomem decisões**, tornando processos mais rápidos e inteligentes.
 
 ---
-
-# Backup em JSON
-
-Exportação e importação do estado completo do estoque.
-
-## Funcionalidades
-- Download do backup em formato JSON
-- Importação de arquivo JSON
-- Preservação completa dos dados
-
----
-
-# Tecnologias
-
-| Tecnologia | Versão | Finalidade |
-|---|---|---|
-| TanStack Start | v1 | Framework full-stack |
-| React | 19 | UI |
-| TypeScript | 5.8 | Tipagem |
-| Tailwind CSS | v4 | Estilos |
-| shadcn/ui | latest | Componentes base |
-| TanStack Query | v5 | Estado assíncrono |
-| TanStack Router | v1 | Roteamento |
-| Recharts | v2 | Gráficos |
-| Lucide React | v0.575 | Ícones |
-| Zod | v3 | Validação |
-
----
-
-# Design System
-
-## Identidade Visual
-- Paleta: Gold Noir — preto profundo com dourado como cor de destaque
-- Tipografia: Space Grotesk (títulos) + DM Sans (corpo)
-- Layout: Bento Grid com cards arredondados e bordas sutis
-- Estilo: HUD cyber-luxe, minimalista e sofisticado
-
-## Tokens Principais
-
-```css
---background: oklch(0.08 0.01 260);
---foreground: oklch(0.95 0.01 260);
---primary: oklch(0.75 0.15 85);
---accent: oklch(0.65 0.12 300);
---muted: oklch(0.2 0.02 260);
---border: oklch(0.2 0.01 260 / 0.5);
