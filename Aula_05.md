@@ -1,5 +1,5 @@
 ## Parte 2 - O Estudo de Caso - Her
-
+<p align="center">
 <img width="484" height="272" alt="image" src="https://github.com/user-attachments/assets/ac076ae8-25df-4820-af03-20b0830e2cce" />
 
 ### Perguntas de Diagnóstico
