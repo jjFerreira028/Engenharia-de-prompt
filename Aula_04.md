@@ -17,7 +17,8 @@ Cada receita inclui:
 
 
 # 🍫 Brownie
-##🎯 Prompt Refinado
+🎯 Prompt Refinado
+
 Você é um confeiteiro profissional especializado em sobremesas de chocolate.  
 Crie uma receita detalhada de brownie caseiro, com textura úmida e sabor intenso de chocolate.
 
@@ -65,7 +66,8 @@ Formato da resposta:
 
 # 🍩 Bolinho de Chuva
 
-## 🎯 Prompt Refinado
+🎯 Prompt Refinado
+
 Você é um cozinheiro especialista em culinária brasileira tradicional.  
 Crie uma receita completa de bolinho de chuva, leve, macio e sequinho por dentro.
 
@@ -113,7 +115,8 @@ Formato da resposta:
 
 # 🥥 Bala de Coco
 
-## 🎯 Prompt Refinado
+🎯 Prompt Refinado
+
 Você é um doceiro experiente especializado em doces artesanais brasileiros.  
 Crie uma receita tradicional de bala de coco caseira, com textura macia e fácil de modelar.
 
