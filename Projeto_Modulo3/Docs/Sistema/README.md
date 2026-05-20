@@ -1,6 +1,5 @@
 # Supreme Multimarcas
 
-Integrantes
 **João Victor Mendes Ferreira**
 
 **Guilherme Vieira Silva**
