@@ -1,153 +1,89 @@
-# Supreme Multimarcas
+## ✅ 1. Descrição do desafio escolhido
 
-## Link do Site
-https://stock-swagger-flow.lovable.app
+O projeto apresentado no site consiste em um **sistema de gerenciamento de estoque com integração via API documentada (Swagger)**.
 
-Sistema de gerenciamento de estoque para lojas multimarcas de streetwear, desenvolvido com foco em performance, controle visual e experiência premium.
+O desafio central abordado é:
 
-O projeto utiliza uma identidade visual **Cyber-Luxe HUD**, combinando interface escura, detalhes dourados e tipografia moderna para transmitir sofisticação e controle total sobre o inventário.
+- Criar uma aplicação web capaz de gerenciar produtos, quantidades e movimentações de estoque (entrada e saída);
+- Prover uma interface simples para visualização e controle dessas informações;
+- Integrar ou simular uma API REST documentada, permitindo testes e entendimento das operações do sistema.
 
----
+Esse tipo de sistema resolve problemas comuns em empresas, como:
 
-# Painel da Loja
+- Controle manual ineficiente de estoque;
+- Falta de rastreabilidade de movimentações;
+- Dificuldade de integração entre front-end e back-end.
 
-Dashboard com métricas inteligentes e monitoramento em tempo real do estoque.
+A escolha de usar Swagger indica que o projeto também foca em:
 
-## Funcionalidades do Dashboard
+- Documentação clara de endpoints;
+- Possibilidade de testar requisições diretamente pela interface. [1](https://medium.com/@matheus787/documentando-suas-apis-usando-o-swagger-680965f12163)
 
-### Métricas em tempo real
-- Estoque total
-- SKUs ativos
-- Valor em ativos
-- Margem potencial
-
-### Alertas automáticos
-- Produtos zerados
-- Estoque baixo
-
-### Recursos adicionais
-- Indicador de ocupação do estoque
-- Badge de "Loja Aberta" com status ativo
-- Interface responsiva e moderna
 
 ---
 
-# Catálogo de Produtos
+## ✅ 2. Justificativa técnica da escolha da plataforma
 
-Gerenciamento completo do inventário.
+O sistema foi desenvolvido utilizando a plataforma **Lovable**, que utiliza inteligência artificial para gerar aplicações web a partir de descrições em linguagem natural.
 
-## Busca e Filtros
-- Busca textual por nome
-- Filtro por categoria
-- Filtro por marca
+### Motivos técnicos para essa escolha:
 
-## Categorias disponíveis
-- Camisetas
-- Moletons
-- Calças
-- Shorts
-- Tênis
-- Bonés
-- Acessórios
+### 🟢 1. Desenvolvimento acelerado (no-code/low-code)
 
-## Ordenação
-- Alertas primeiro
-- Menor estoque
-- Maior estoque
-- Nome A–Z
-- Mais recentes
+- Lovable permite criar aplicações completas sem escrever código manualmente, gerando front-end e back-end automaticamente. [2](https://www.locaweb.com.br/blog/temas/codigo-aberto/o-que-e-lovable-e-como-funciona-guia-completo/)  
+- Ideal para prototipagem rápida de sistemas como controle de estoque.
 
-## Alertas Inteligentes
-- Filtro rápido "Somente alertas"
-- Badge clicável de produtos críticos
+### 🟢 2. Integração automática de interface e lógica
 
----
+- A plataforma já organiza interface, regras de negócio e banco de dados em um único fluxo. [3](https://studioartemis.co/conteudos/negocios/lovable-o-que-e/)  
+- Isso facilita a criação de dashboards e telas típicas de sistemas de estoque.
 
-# Movimentação de Estoque
+### 🟢 3. Facilidade de deploy
 
-Sistema rápido e intuitivo para entradas e saídas.
+- O sistema pode ser publicado rapidamente via link (como o próprio site analisado), sem necessidade de configurar infraestrutura.
 
-## Funcionalidades
-- Formulário inline no próprio card do produto
-- Sem uso de modais
-- Alternância entre:
-  - Entrada
-  - Saída
+### 🟢 4. Compatibilidade com APIs e Swagger
+
+- Projetos gerados podem integrar APIs externas e usar documentação padrão (OpenAPI/Swagger), essencial para sistemas modernos. [4](https://swagger.io/?lang=pt)  
+
+### 🟢 5. Foco em protótipos funcionais (MVP)
+
+- Lovable é altamente eficiente para criar MVPs, permitindo validar ideias rapidamente antes de um desenvolvimento mais robusto. [5](https://www.eesel.ai/pt/blog/lovable)  
+
+👉 Em resumo: a escolha da plataforma é justificável pela **rapidez, simplicidade e foco em prototipação**, ideal para um projeto acadêmico ou inicial.
+
 
 ---
 
-# Cadastro de Produtos
+## ✅ 3. Reflexão crítica sobre as limitações encontradas
 
-Formulário completo para adicionar novos itens ao estoque.
+Apesar das vantagens, o uso do Lovable e desse tipo de solução apresenta algumas limitações importantes:
 
-## Campos
-- Nome do produto
-- Marca
-- Categoria
-- Cor
-- Tamanho
-- Quantidade inicial
-- Preço de custo
-- Preço de venda
-- Estoque mínimo
+### 🔴 1. Limitações de personalização avançada
 
----
+- A geração automática pode dificultar alterações mais complexas ou específicas no código;
+- Em alguns casos, não há controle total sobre arquitetura e otimizações.
 
-# Histórico de Movimentações
+### 🔴 2. Dependência da plataforma
 
-Registro completo de todas as entradas e saídas do estoque.
+- O sistema fica dependente do ecossistema do Lovable (deploy, estrutura, integrações);
+- Isso pode dificultar migração para outras tecnologias no futuro.
 
-## Informações exibidas
-- Produto
-- Tipo (Entrada/Saída)
-- Quantidade
-- Motivo
-- Data
+### 🔴 3. Escalabilidade limitada
 
----
+- Embora adequado para protótipos, pode não ser ideal para sistemas de grande escala ou alta complexidade;
+- Aplicações empresariais robustas exigem maior controle de performance e segurança.
 
-# Backup em JSON
+### 🔴 4. Possíveis falhas na geração automática
 
-Exportação e importação do estado completo do estoque.
+A IA pode gerar:
 
-## Funcionalidades
-- Download do backup em formato JSON
-- Importação de arquivo JSON
-- Preservação completa dos dados
+- Inconsistências na lógica;
+- Interfaces pouco refinadas;
+- Funcionalidades incompletas.
 
----
+Isso exige validação manual constante.
 
-# Tecnologias
+### 🔴 5. Integrações externas podem ser limitadas
 
-| Tecnologia | Versão | Finalidade |
-|---|---|---|
-| TanStack Start | v1 | Framework full-stack |
-| React | 19 | UI |
-| TypeScript | 5.8 | Tipagem |
-| Tailwind CSS | v4 | Estilos |
-| shadcn/ui | latest | Componentes base |
-| TanStack Query | v5 | Estado assíncrono |
-| TanStack Router | v1 | Roteamento |
-| Recharts | v2 | Gráficos |
-| Lucide React | v0.575 | Ícones |
-| Zod | v3 | Validação |
-
----
-
-# Design System
-
-## Identidade Visual
-- Paleta: Gold Noir — preto profundo com dourado como cor de destaque
-- Tipografia: Space Grotesk (títulos) + DM Sans (corpo)
-- Layout: Bento Grid com cards arredondados e bordas sutis
-- Estilo: HUD cyber-luxe, minimalista e sofisticado
-
-## Tokens Principais
-
-```css
---background: oklch(0.08 0.01 260);
---foreground: oklch(0.95 0.01 260);
---primary: oklch(0.75 0.15 85);
---accent: oklch(0.65 0.12 300);
---muted: oklch(0.2 0.02 260);
---border: oklch(0.2 0.01 260 / 0.5);
+- Para funcionalidades mais avançadas (ex: ERP completo, BI, automações complexas), pode ser necessário sair da plataforma.
