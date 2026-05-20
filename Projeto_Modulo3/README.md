@@ -1,4 +1,4 @@
-# Supreme Multimarcas
+# Gerenciador de Mercadorias - Supreme
 Integrantes
 
 **João Victor Mendes Ferreira**
