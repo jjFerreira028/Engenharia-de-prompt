@@ -14,7 +14,7 @@ Cada receita inclui:
 - Prompt refinado (engenharia de prompt)
 - Receita completa com ingredientes e preparo  
 
----
+
 
 # 🍫 Brownie
 
@@ -34,7 +34,7 @@ Formato da resposta:
 - Modo de preparo em passos numerados  
 - Dicas finais claras e práticas  
 
----
+
 
 ## 🍰 Receita — Brownie Clássico
 
@@ -62,7 +62,7 @@ Formato da resposta:
 - Acrescente 80g de nozes ou chocolate extra  
 - Pode substituir por 180g de açúcar mascavo  
 
----
+
 
 # 🍩 Bolinho de Chuva
 
@@ -83,7 +83,7 @@ Formato da resposta:
 - Passo a passo  
 - Dicas e erros comuns  
 
----
+
 
 ## 🍩 Receita — Bolinho de Chuva
 
@@ -110,7 +110,7 @@ Formato da resposta:
 - Massa deve cair devagar da colher  
 - Pode adicionar 100g de banana picada  
 
----
+
 
 # 🥥 Bala de Coco
 
@@ -131,7 +131,7 @@ Formato da resposta:
 - Modo de preparo numerado  
 - Dicas e cuidados  
 
----
+
 
 ## 🥥 Receita — Bala de Coco Caseira
 
@@ -155,7 +155,7 @@ Formato da resposta:
 - Muito cuidado com queimaduras 🔥  
 - Pode rechear com doce de leite (100g)  
 
----
+
 
 # 📌 Observações
 
