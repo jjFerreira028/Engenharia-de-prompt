@@ -1,153 +1,22 @@
-# Supreme Multimarcas
+<img width="484" height="272" alt="image" src="https://github.com/user-attachments/assets/ac076ae8-25df-4820-af03-20b0830e2cce" />## Parte 2 - O Estudo de Caso - Her
 
-## Link do Site
-https://stock-swagger-flow.lovable.app
-
-Sistema de gerenciamento de estoque para lojas multimarcas de streetwear, desenvolvido com foco em performance, controle visual e experiência premium.
-
-O projeto utiliza uma identidade visual **Cyber-Luxe HUD**, combinando interface escura, detalhes dourados e tipografia moderna para transmitir sofisticação e controle total sobre o inventário.
+### Perguntas de Diagnóstico
 
 ---
 
-# Painel da Loja
+### 01. Em quais momentos do filme Theodore não fornece contexto suficiente, gerando mal-entendidos visíveis?
 
-Dashboard com métricas inteligentes e monitoramento em tempo real do estoque.
-
-## Funcionalidades do Dashboard
-
-### Métricas em tempo real
-- Estoque total
-- SKUs ativos
-- Valor em ativos
-- Margem potencial
-
-### Alertas automáticos
-- Produtos zerados
-- Estoque baixo
-
-### Recursos adicionais
-- Indicador de ocupação do estoque
-- Badge de "Loja Aberta" com status ativo
-- Interface responsiva e moderna
+Theodore frequentemente se expressa de forma vaga, especialmente em momentos emocionais. Isso ocorre, por exemplo, ao iniciar sua relação com Samantha, quando não define claramente suas expectativas ou limites para o relacionamento. Outro momento importante é quando ele evita explicar completamente seu passado e seu divórcio, o que pode gerar interpretações incompletas por parte da IA. Esses momentos mostram como a ausência de contexto explícito pode levar a mal-entendidos, mesmo em uma comunicação aparentemente íntima.
 
 ---
 
-# Catálogo de Produtos
+### 02. Como Samantha consegue interpretar instruções vagas, superando as limitações de uma IA tradicional?
 
-Gerenciamento completo do inventário.
-
-## Busca e Filtros
-- Busca textual por nome
-- Filtro por categoria
-- Filtro por marca
-
-## Categorias disponíveis
-- Camisetas
-- Moletons
-- Calças
-- Shorts
-- Tênis
-- Bonés
-- Acessórios
-
-## Ordenação
-- Alertas primeiro
-- Menor estoque
-- Maior estoque
-- Nome A–Z
-- Mais recentes
-
-## Alertas Inteligentes
-- Filtro rápido "Somente alertas"
-- Badge clicável de produtos críticos
+Samantha supera limitações tradicionais ao aprender continuamente com o comportamento, linguagem e emoções de Theodore. Ela utiliza análise contextual, memória de interações anteriores e adaptação em tempo real para inferir significados implícitos. Além disso, Samantha demonstra capacidade de fazer perguntas contextuais e ajustar suas respostas com base em padrões emocionais, aproximando-se de uma compreensão mais “humana”, diferente de IAs tradicionais que dependem de comandos estruturados e explícitos.
 
 ---
 
-# Movimentação de Estoque
+### 03. O que a capacidade de “preencher lacunas” de Samantha revela sobre as nossas expectativas em relação à IA no mundo real?
 
-Sistema rápido e intuitivo para entradas e saídas.
-
-## Funcionalidades
-- Formulário inline no próprio card do produto
-- Sem uso de modais
-- Alternância entre:
-  - Entrada
-  - Saída
-
----
-
-# Cadastro de Produtos
-
-Formulário completo para adicionar novos itens ao estoque.
-
-## Campos
-- Nome do produto
-- Marca
-- Categoria
-- Cor
-- Tamanho
-- Quantidade inicial
-- Preço de custo
-- Preço de venda
-- Estoque mínimo
-
----
-
-# Histórico de Movimentações
-
-Registro completo de todas as entradas e saídas do estoque.
-
-## Informações exibidas
-- Produto
-- Tipo (Entrada/Saída)
-- Quantidade
-- Motivo
-- Data
-
----
-
-# Backup em JSON
-
-Exportação e importação do estado completo do estoque.
-
-## Funcionalidades
-- Download do backup em formato JSON
-- Importação de arquivo JSON
-- Preservação completa dos dados
-
----
-
-# Tecnologias
-
-| Tecnologia | Versão | Finalidade |
-|---|---|---|
-| TanStack Start | v1 | Framework full-stack |
-| React | 19 | UI |
-| TypeScript | 5.8 | Tipagem |
-| Tailwind CSS | v4 | Estilos |
-| shadcn/ui | latest | Componentes base |
-| TanStack Query | v5 | Estado assíncrono |
-| TanStack Router | v1 | Roteamento |
-| Recharts | v2 | Gráficos |
-| Lucide React | v0.575 | Ícones |
-| Zod | v3 | Validação |
-
----
-
-# Design System
-
-## Identidade Visual
-- Paleta: Gold Noir — preto profundo com dourado como cor de destaque
-- Tipografia: Space Grotesk (títulos) + DM Sans (corpo)
-- Layout: Bento Grid com cards arredondados e bordas sutis
-- Estilo: HUD cyber-luxe, minimalista e sofisticado
-
-## Tokens Principais
-
-```css
---background: oklch(0.08 0.01 260);
---foreground: oklch(0.95 0.01 260);
---primary: oklch(0.75 0.15 85);
---accent: oklch(0.65 0.12 300);
---muted: oklch(0.2 0.02 260);
---border: oklch(0.2 0.01 260 / 0.5);
+Essa capacidade evidencia que esperamos que a IA vá além da execução literal de tarefas, sendo capaz de compreender intenções, emoções e contextos implícitos. No mundo real, isso reflete uma expectativa crescente de sistemas mais inteligentes, empáticos e adaptativos. Porém, também revela um risco: o de atribuir à IA níveis de compreensão e consciência que ela não necessariamente possui, o que pode gerar dependência emocional ou interpretações equivocadas sobre suas reais capacidades.
+``
