@@ -1,4 +1,4 @@
-# Gerenciador de Mercadorias - Supreme
+# Gerenciador de Mercadorias - Supreme Multimarcas
 Integrantes
 
 **João Victor Mendes Ferreira**
@@ -12,7 +12,6 @@ Sistema de gerenciamento de estoque para lojas multimarcas de streetwear, desenv
 
 O projeto utiliza uma identidade visual **Cyber-Luxe HUD**, combinando interface escura, detalhes dourados e tipografia moderna para transmitir sofisticação e controle total sobre o inventário.
 
----
 
 # Painel da Loja
 
@@ -35,7 +34,6 @@ Dashboard com métricas inteligentes e monitoramento em tempo real do estoque.
 - Badge de "Loja Aberta" com status ativo
 - Interface responsiva e moderna
 
----
 
 # Catálogo de Produtos
 
@@ -66,7 +64,6 @@ Gerenciamento completo do inventário.
 - Filtro rápido "Somente alertas"
 - Badge clicável de produtos críticos
 
----
 
 # Movimentação de Estoque
 
@@ -79,7 +76,6 @@ Sistema rápido e intuitivo para entradas e saídas.
   - Entrada
   - Saída
 
----
 
 # Cadastro de Produtos
 
@@ -96,7 +92,6 @@ Formulário completo para adicionar novos itens ao estoque.
 - Preço de venda
 - Estoque mínimo
 
----
 
 # Histórico de Movimentações
 
@@ -109,7 +104,6 @@ Registro completo de todas as entradas e saídas do estoque.
 - Motivo
 - Data
 
----
 
 # Backup em JSON
 
@@ -120,7 +114,6 @@ Exportação e importação do estado completo do estoque.
 - Importação de arquivo JSON
 - Preservação completa dos dados
 
----
 
 # Tecnologias
 
@@ -137,7 +130,6 @@ Exportação e importação do estado completo do estoque.
 | Lucide React | v0.575 | Ícones |
 | Zod | v3 | Validação |
 
----
 
 # Design System
 
