@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório da disciplina de Engenharia de Prompt e Aplicações em Inteligência Artificial da graduação em Análise e Desenvolvimento de Sistemas na Centro Universitário do Distrito Federal.
 
-Este repositório foi desenvolvido por João Victor Mendes Ferreira com o objetivo de armazenar, organizar e documentar todas as atividades, projetos, exercícios e desafios propostos ao longo da disciplina.
+Este repositório foi desenvolvido por **João Victor Mendes Ferreira** com o objetivo de armazenar, organizar e documentar todas as atividades, projetos, exercícios e desafios propostos ao longo da disciplina.
 
 📚 Sobre a Disciplina
 
@@ -18,9 +18,10 @@ Criação de Assistentes Virtuais
 Integrações com APIs de IA
 Desenvolvimento de Protótipos Inteligentes
 Aplicações práticas no mercado de tecnologia
+
 🎓 Docentes Responsáveis
-Kadidja Valeria Reginaldo De Oliveira
-Karla Roberto Sartin
+**Kadidja Valeria Reginaldo De Oliveira**
+**Karla Roberto Sartin**
 🎯 Objetivo do Repositório
 
 Este repositório tem como finalidade:
@@ -52,10 +53,6 @@ Estruturação de documentação técnica;
 Versionamento de código;
 Prototipação rápida;
 Integração entre ferramentas inteligentes.
-📌 Autor
-João Victor Mendes Ferreira
-
-Aluno de Análise e Desenvolvimento de Sistemas na Centro Universitário do Distrito Federal.
 
 📖 Observações
 
