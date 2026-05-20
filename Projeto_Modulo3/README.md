@@ -1,4 +1,9 @@
 # Supreme Multimarcas
+Integrantes
+
+**João Victor Mendes Ferreira**
+
+**Guilherme Vieira Silva**
 
 ## Link do Site
 https://stock-swagger-flow.lovable.app
