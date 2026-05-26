@@ -6,7 +6,7 @@ Integrantes
 **Guilherme Vieira Silva**
 
 ## Link do Site
-https://stock-swagger-flow.lovable.app
+https://supreme-controle.lovable.app
 
 Sistema de gerenciamento de estoque para lojas multimarcas de streetwear, desenvolvido com foco em performance, controle visual e experiência premium.
 
